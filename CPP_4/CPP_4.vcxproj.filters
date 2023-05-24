@@ -5,5 +5,13 @@
       <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
       <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
     </Filter>
+    <Filter Include="Исходные файлы\main">
+      <UniqueIdentifier>{3b319ede-6b90-4827-a496-3bfbec59d48e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Исходные файлы\main</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
